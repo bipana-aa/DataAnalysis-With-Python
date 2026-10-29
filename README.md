@@ -2,7 +2,7 @@
 
 This is where I keep my data analysis with Python assignments.
 
-## Assignment01 - Python basics
+## Assignment01 
 
 - Python-basics.py: taking input, f-strings, string functions
 - Python-loops.py: loops like even/odd count, multiples and sum of digits
